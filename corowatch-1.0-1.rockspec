@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "corowatch"
-version = "0.2-1"
+version = "1.0-1"
 -- LuaDist source
 source = {
-  tag = "0.2-1",
+  tag = "1.0-1",
   url = "git://github.com/LuaDist-testing/corowatch.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/Tieske/corowatch/archive/version_0.2.tar.gz",
---   dir = "corowatch-version_0.2"
+--   url = "https://github.com/Tieske/corowatch/archive/version_1.0.tar.gz",
+--   dir = "corowatch-version_1.0"
 -- }
 description = {
   summary = "Watching and killing coroutines.",
